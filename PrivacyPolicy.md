@@ -107,7 +107,7 @@ The Website may contain links to third-party websites. When you click on a link 
 
 # ACCESS TO INFORMATION
 
-You can also request access, updating, and corrections of inaccuracies in other personal information we have by emailing or writing to us at privacy@deplutus.finance. We may ask you for certain information in order to verify your identity.
+You can also request access, updating, and corrections of inaccuracies in other personal information we have by emailing or writing to us at contact@deplutus.finance. We may ask you for certain information in order to verify your identity.
 
 We limit access to personal information we collect to only those employees who require such information to handle matters relating to compliance, identity verification, and customer support.
 
